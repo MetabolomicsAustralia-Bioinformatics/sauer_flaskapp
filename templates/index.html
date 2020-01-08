@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title></title>
+</head>
+<body>
+	<div>
+		<h1>Input files (csv)</h1>
+		<form action="/transform" method="post" enctype="multipart/form-data">
+			<h3>Upload main input file (csv)</h3>
+		    <input type="file" name="input_file1" id="input_file1">
+		    <br>
+		    <h3>Upload formulae file (csv)</h3>
+		    <input type="file" name="input_file2" id="input_file2">
+		    <br>
+		    <input type="submit" value="Process & Download" name="submit">
+		</form>
+
+		<!-- submit button functionality temporarily disabled
+		<form action="/download" method="get">
+			<input type="submit" value="Download Results" name="download">
+		</form>
+	-->
+	</div>
+
+</body>
+</html>

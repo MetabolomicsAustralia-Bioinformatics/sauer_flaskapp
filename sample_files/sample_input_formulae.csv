@@ -1,0 +1,17 @@
+ribose,C23 O5 N1 H41 Si4 F5,6
+deoxyribose,C20 O4 N1 H33 Si3 F5,6
+mannose467,C18 H43 N0 O6 Si4,7
+mannose335,C13 H31 N0 O4 Si3,4
+mannose231,C10 H23 N0 O2 Si2,4
+ribose618,C23 O5 N1 H41 Si4 F5,6
+deoxyribose530,C20 O4 N1 H33 Si3 F5,6
+ribose452,C17 O5 N1 H42 Si4,5
+ribulose5P_604,C17 O5 N1 H42 Si4,5
+ribose5P_604,C20 O8 N1 H51 Si5 P1,5
+ribose_452,C17 O5 N1 H42 Si4,5
+ribulose5P_peak1_604,C17 O5 N1 H42 Si4,5
+ribose5P_peak1_604,C20 O8 N1 H51 Si5 P1,5
+ribulose5P_peak2_604,C17 O5 N1 H42 Si4,5
+ribose5P_peak2_604,C20 O8 N1 H51 Si5 P1,5
+PEP_385,C12 H30 O6 P1 N0 Si3,3
+totalpentosephosphatepool_604,C20 O8 N1 H51 Si5 P1,5
