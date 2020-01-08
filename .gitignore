@@ -1,3 +1,4 @@
 .DS_Store
 /__pycache__
+/.pynb_checkpoints
 scratch.ipynb
