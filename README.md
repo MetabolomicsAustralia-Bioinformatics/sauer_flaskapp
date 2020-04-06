@@ -17,7 +17,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 # Install all required packages
-pip3 install requirements.txt
+pip install -r requirements.txt
 
 # Run the app on localhost (port 5000 by default)
 python3 app.py
@@ -26,10 +26,9 @@ python3 app.py
 deactivate
 ```
 
-### Requirements
+### Making Requirements
 
-Requirements in `reauirements.txt`. 
-Dev note: automatically collect packages installed in the virtual environment to create `requirements.txt` with `gunicorn`:
+Automatically collect packages installed in the virtual environment to create `requirements.txt` with `gunicorn`:
 
 ```
 pip3 install gunicorn
