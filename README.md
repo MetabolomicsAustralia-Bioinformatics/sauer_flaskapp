@@ -1,10 +1,10 @@
 # Web app for Sauer Enrichment
 
-Built in `flask`, which admittedly is a slightly overblown framework (Python `dash` would have been fine). Sauer enrichment logic copy-pasted from the [SauerEnrichmentAnalysis repo](https://github.com/MetabolomicsAustralia-Bioinformatics/SauerEnrichmentAnalysis), with some minor (mostly cosmetic) modifications. 
+Built in `flask`. Sauer enrichment logic taken from the [SauerEnrichmentAnalysis repo](https://github.com/MetabolomicsAustralia-Bioinformatics/SauerEnrichmentAnalysis), with some minor modifications. 
 
 ## Local Setup
 
-Sample input data files and reference output files available in `/sample_files`. 
+Sample input data files and reference output files available in `/sample_files`.
 
 ```
 # install virtualenv package
@@ -16,7 +16,7 @@ python3 -m venv venv
 # Activate virtual env
 source venv/bin/activate
 
-# Install all required packages
+# Install all required packagese
 pip install -r requirements.txt
 
 # Run the app on localhost (port 5000 by default)
